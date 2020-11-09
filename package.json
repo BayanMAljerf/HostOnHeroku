@@ -28,8 +28,5 @@
     "dependencies": {
         "@fortawesome/fontawesome-free": "^5.13.1",
         "geolocation-marker": "^2.0.5"
-    },
-    "scripts": {
-  "postinstall": "ng build"
-}
+    }
 }
