@@ -10,20 +10,22 @@
     "require": {
         "php": "^7.2.5",
         "alexpechkarev/google-maps": "^7.1",
-        "egeloen/google-map": "^2.0",
+        "doctrine/dbal": "2.10.2",
         "fideloper/proxy": "^4.2",
-        "laravel/framework":"v7.18.0",
         "fruitcake/laravel-cors": "^1.0",
         "gregwar/image": "^2.0",
         "guzzlehttp/guzzle": "^6.3",
         "kenguest/services-openstreetmap": "^0.5.0",
         "kwn/number-to-words": "^1.10",
+        "laravel/framework": "v7.18.0",
         "laravel/helpers": "^1.2",
         "laravel/tinker": "^2.0",
         "laravel/ui": "^2.1",
         "laravie/parser": "^2.1",
         "league/geotools": "^0.8.1",
-        "phpseclib/mcrypt_compat": "^1.0"
+        "phpseclib/mcrypt_compat": "^1.0",
+        "symfony/event-dispatcher": "^5.0",
+        "symfony/http-kernel": "v5.1.2"
     },
     "require-dev": {
         "facade/ignition": "^2.0",
