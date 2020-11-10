@@ -21,4 +21,7 @@
 </IfModule>
 php_value upload_max_filesize 400M
 php_value post_max_size 400M
+<<<<<<< HEAD
 
+=======
+>>>>>>> 645d877d4c33af0c48b0a29d28004b8d4df33c06
